@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Alex
 #### Passionate guy about software development.
-![Passionate guy about software development.](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
+![Passionate guy about software development.]([https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
 
-I am a master student at Robotics Faculty from Technical University of Cluj-Napoca and also Backend Developer intern at PitchTech.
+I am a master student at Robotics specialization from Technical University of Cluj-Napoca and also Backend Developer intern at PitchTech.
 
 
 <h3 align="left">Languages and Tools:</h3>
