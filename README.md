@@ -6,7 +6,6 @@ I am a master student at Robotics Faculty from Technical University of Cluj-Napo
 
 Skills: Java / C / C# / Python / SpringBoot / GraphQL / MongoDB / MySQL / Docker / Arduino / Git
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: alexmuresan55@yahoo.com 
 
 
