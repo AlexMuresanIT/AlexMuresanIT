@@ -9,5 +9,7 @@ Skills: Java / C / C# / Python / SpringBoot / GraphQL / MongoDB / MySQL / Docker
 - 📫 How to reach me: alexmuresan55@yahoo.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexmuresanit)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmuresanit)](https://github.com/anuraghazra/github-readme-stats)
 
