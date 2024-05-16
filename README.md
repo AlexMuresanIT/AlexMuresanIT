@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, My name is Alex
+#### Passionate guy about software development.
+![Passionate guy about software development.](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 
-<!--
-**AlexMuresanIT/AlexMuresanIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a master student at Robotics Faculty from Technical University of Cluj-Napoca and also Backend Developer intern at PitchTech.
 
-Here are some ideas to get you started:
+Skills: Java / C / C# / Python / SpringBoot / GraphQL / MongoDB / MySQL / Docker / Arduino / Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: alexmuresan55@yahoo.com 
+
+
+
+
