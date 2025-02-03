@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Alex
+### Hi there 👋, <br> My name is Alex
 #### :keyboard: Passionate guy about software development :keyboard:
 ![Passionate guy about software development.](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 
