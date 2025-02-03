@@ -1,18 +1,26 @@
 ### Hi there 👋, My name is Alex
-#### Passionate guy about software development.
+#### :keyboard: Passionate guy about software development :keyboard:
 ![Passionate guy about software development.](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 
-I am a master student at Robotics specialization from Technical University of Cluj-Napoca and also Backend Developer intern at PitchTech.
+Currently, I am a master's student in Robotics specialisation at the Technical University of Cluj-Napoca. Additionally, I am a Java Developer at Pitch Tech. <br> <br>
+Frontend <br> 
+![My Skills](https://skillicons.dev/icons?i=js,html) <br> <br>
 
+Backend <br>
+[![My Skills](https://skillicons.dev/icons?i=c,graphql,java,python,mongodb,spring,cs,mysql&perline=3&theme=dark)](https://skillicons.dev) <br> <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href= "https://www.confluent.io/what-is-apache-kafka/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="kafka" width="40" height="40"/> <a href= "[https://www.confluent.io/what-is-apache-kafka/](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </p>
+DevOps <br>
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes&perline=3&theme=dark)](https://skillicons.dev) <br> <br>
 
+Messaging <br>
+[![My Skills](https://skillicons.dev/icons?i=kafka&perline=3&theme=dark)](https://skillicons.dev) <br> <br>
 
-- 📫 How to reach me:
-- alexmuresan55@yahoo.com 
-- www.linkedin.com/in/alexandru-muresan-966400241
+Misc <br>
+[![My Skills](https://skillicons.dev/icons?i=arduino,autocad&perline=3&theme=dark)](https://skillicons.dev)
+
+How to reach me: <br>
+:envelope: alexmuresan55@yahoo.com <br>
+:computer: www.linkedin.com/in/alexandru-muresan-966400241
 
 
 
