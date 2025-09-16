@@ -3,7 +3,7 @@
 
 ![Passionate guy about software development.](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg) <br>
 
-Currently, I am a master's student in Robotics specialisation at the Technical University of Cluj-Napoca. Additionally, I am a Java Developer at Pitch Tech. <br> <br>
+I am a Java Developer at Pitch Tech. <br> <br>
 Frontend <br> 
 ![My Skills](https://skillicons.dev/icons?i=js,html) <br> <br>
 
